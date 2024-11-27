@@ -1,0 +1,14 @@
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\bin\Debug\net8.0\about_emp.exe
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\bin\Debug\net8.0\about_emp.deps.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\bin\Debug\net8.0\about_emp.runtimeconfig.json
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\bin\Debug\net8.0\about_emp.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\bin\Debug\net8.0\about_emp.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.AssemblyInfoInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.AssemblyInfo.cs
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.csproj.CoreCompileInputs.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\refint\about_emp.dll
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.pdb
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\about_emp.genruntimeconfig.cache
+C:\Users\sarik\OneDrive\Desktop\Sample Exercises\about_emp\obj\Debug\net8.0\ref\about_emp.dll
